@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "name": "Austin Jose",
+    "pronouns": "He/Him",
+    "headline": "Every Millisecond Matters",
+    "subheadline": "Fast Experiences Win",
+    "tagline": "Driving Frontend Performance Engineering",
+    "title": "Associate Software Engineer | Delivering Production-grade, Performance-driven Systems @Zolvit (formerly Vakilsearch)",
+    "location": "Kodaikanal, Tamil Nadu, India",
+    "email": "astnjs74@gmail.com",
+    "followers": "1,988 followers",
+    "connections": "500+ connections",
+    "company": "Vakilsearch",
+    "education": "Sri Eshwar College of Engineering"
+  },
+
+  "about": {
+    "summary": "Full-stack Software Engineer with production experience building high-performance, scalable web applications using Next.js and Node.js. Focused on frontend performance, backend reliability, SEO, and real-world user impact."
+  },
+
+  "experience": [
+    {
+      "role": "Associate Software Engineer",
+      "company": "Zolvit (formerly Vakilsearch)",
+      "employmentType": "Full-time",
+      "period": "Apr 2025 – Present",
+      "duration": "10 mos",
+      "location": "Chennai, Tamil Nadu, India",
+      "points": [
+        "Owned end-to-end development of high-traffic Next.js applications, selecting SSR, SSG, or ISR based on SEO needs, data freshness, and backend response behavior.",
+        "Improved Core Web Vitals by optimizing JavaScript execution, caching strategies, asset delivery, and third-party scripts, driving measurable gains in search impressions.",
+        "Built CMS-driven pages integrated with backend APIs, standardizing data contracts and reducing content release cycles by enabling non-engineers to ship updates safely."
+      ]
+    },
+    {
+      "role": "Frontend Developer Intern",
+      "company": "Zolvit (formerly Vakilsearch)",
+      "employmentType": "Internship",
+      "period": "Apr 2024 – Mar 2025",
+      "duration": "1 yr",
+      "location": "Chennai, Tamil Nadu, India",
+      "points": [
+        "Developed responsive React and Next.js components for onboarding and service discovery flows, ensuring accessibility, consistency, and maintainability across shared production codebases.",
+        "Integrated REST APIs, fixed UI and data handling issues, and supported incremental performance improvements under real production constraints and user traffic.",
+        "Used Storybook to develop reusable UI components, improving onboarding efficiency and collaboration between frontend, backend, and design teams."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Lawyers Listing & Public Q&A Platform",
+      "points": [
+        "Developed a server-rendered Q&A platform optimized for discoverability and performance, handling large datasets through efficient pagination and secure server-side data processing.",
+        "Designed backend flows using Hapi.js, Elasticsearch, and JWT-based authentication for posts, moderation, and fast search, maintaining approximately 99 percent application uptime."
+      ]
+    },
+    {
+      "title": "CMS-Based Legal Services Platform",
+      "points": [
+        "Built SEO-critical service and onboarding pages using Next.js SSR, balancing server performance, page discoverability, and user experience across high-intent customer flows.",
+        "Implemented CMS-driven layouts backed by APIs, removing engineering dependency for content updates while enforcing validation, security checks, and structured data delivery."
+      ]
+    },
+    {
+      "title": "Video Consultation Web Application",
+      "points": [
+        "Designed and developed a full-stack system enabling real-time legal consultations after authentication and payment, supporting video, audio, and messaging communication flows.",
+        "Implemented WebRTC for media streaming and WebSockets for signaling and chat, ensuring low-latency communication and stable session management."
+      ]
+    }
+  ],
+
+  "impact": [
+    "Reduced over 3,000 underperforming pages to zero in Google Search Console through combined server-side rendering, frontend performance optimizations, and backend-driven data delivery improvements.",
+    "Increased search impressions by 8 percent within ten days by improving Core Web Vitals, optimizing caching strategies, and stabilizing server- and statically-rendered pages."
+  ],
+
+  "skills": {
+    "frontend": [
+      "React.js",
+      "Next.js",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "Tailwind CSS"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "Hapi.js",
+      "REST API Design",
+      "JWT Authentication",
+      "Elasticsearch"
+    ],
+    "devops": [
+      "Git",
+      "Jenkins",
+      "Docker",
+      "NGINX",
+      "Grafana",
+      "Mixpanel",
+      "GrowthBook"
+    ]
+  }
+}
